@@ -164,8 +164,7 @@ Round
         3.45
 # SQRT
 Returns  the square root of a given number.
-Example
-The following example returns the square root of  16.
+Example: The following example returns the square root of  16.
 select  sqrt(16) from dual;
 
 SQRT
