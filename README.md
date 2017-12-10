@@ -1,6 +1,7 @@
 ***
 # SQL FUNCTIONS
 ***
+<img width="800" alt="screen shot 2017-12-10 at 5 47 34 am" src="https://user-images.githubusercontent.com/23619819/33804207-0f3f3088-dd6e-11e7-90c8-663a36b60777.png">
 
 SQL functions are built into Oracle and are available for use in various appropriate SQL statements. You can also create your own function using PL/SQL.
 ***
