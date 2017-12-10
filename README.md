@@ -171,5 +171,5 @@ select  sqrt(16) from dual;
 SQRT
 ---------
         4
-
+<img width="800" alt="screen shot 2017-12-10 at 5 48 01 am" src="https://user-images.githubusercontent.com/23619819/33804219-503e1afe-dd6e-11e7-96e4-77c2e117c627.png">
 
