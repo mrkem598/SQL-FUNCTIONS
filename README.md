@@ -155,6 +155,7 @@ Round
         3.46
 # TRUNC
 Returns a decimal number Truncated to a given decimal positions.
+
 Example
 The following example returns the no. 3.4573 truncated to 2 decimals.
 select round(3.4573,2) “Round” from dual;
