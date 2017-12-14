@@ -27,4 +27,4 @@ SELECT MOD(5,3) FROM dual;
 COMMIT;
 SPOOL OFF;
 COMMIT;
-------------MOHAMMED-KEMAL------------
+------------MOH-KEMAL------------
